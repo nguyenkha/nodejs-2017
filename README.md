@@ -1,8 +1,6 @@
-LẬP TRÌNH WEB 1 - 2017
-======================
+NODE.JS - 2017
+==============
 
-* Giảng viên: Đỗ Nguyên Kha (<dnkha@fit.hcmus.edu.vn>)
+* Tác giả: Đỗ Nguyên Kha (<donguyenkha@gmail.cim>)
 
-* Thời gian: Thứ hai, 03:10PM - 05:50PM 
-
-* Địa điểm: C43
+* Thời gian: Cập nhật phần mới hàng tuần
